@@ -1,0 +1,10 @@
+manifest.txt
+--------------
+List of files included in the Fraud Detection AutoEncoder project:
+
+1. fraud_detection_autoencoder.py - Main Python script that builds and trains an AutoEncoder model using PyOD for fraud detection.
+2. requirements.txt - Lists Python dependencies required for running the project.
+3. README.md - Provides project overview, setup instructions, and expected outputs.
+4. creditcard.csv - Dataset (download from Kaggle: https://www.kaggle.com/mlg-ulb/creditcardfraud). Not included in this package.
+5. output_screenshot.png - Screenshot showing program output (terminal results and histogram plot).
+6. Fraud_Detection_Report.docx - APA 7 formatted report describing the methodology, results, and findings.
